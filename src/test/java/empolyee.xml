@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empDetail>
+   <Employee1>
+           <id>123</id>
+    <name>sandy</name>
+    <phone>9876543210</phone>
+    <Address>
+       <street>Gandi Nagar</street>
+       <city>Ranipet</city>
+       <state>Tamil Nadu</state>
+      </Address>
+      <Mail>
+         <personal>sandy123@gmail.com</personal>
+         <office>sandy321@outlook.com</office>      
+      </Mail>  
+   </Employee1>
+   <Employee1>
+      <id>321</id>
+    <name>santhosh</name>
+    <phone>7894561230</phone>
+    <Address>
+       <street>Gandi St</street>
+       <city> Vellore</city>
+       <state>Tamil Nadu</state>
+      </Address>
+      <Mail>
+         <personal>santhosh321@gmail.com</personal>
+         <office>santhosh123@outlook.com</office>      
+      </Mail>  
+   </Employee1>
+
+</empDetail>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
